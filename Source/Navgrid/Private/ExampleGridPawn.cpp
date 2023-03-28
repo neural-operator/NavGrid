@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "NavGridPrivatePCH.h"
 #include "ExampleGridPawn.h"
+#include "NavGridPrivatePCH.h"
 
 #include "Components/StaticMeshComponent.h"
 #include "Components/ArrowComponent.h"

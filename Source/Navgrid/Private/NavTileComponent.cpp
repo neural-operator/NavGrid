@@ -1,5 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+#include "NavTileComponent.h"
 #include "NavGridPrivatePCH.h"
 #include <limits>
 #include "Components/CapsuleComponent.h"

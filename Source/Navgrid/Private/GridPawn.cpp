@@ -2,7 +2,6 @@
 
 #include "GridPawn.h"
 
-#include "NavGridPrivatePCH.h"
 #if WITH_EDITORONLY_DATA
 #include "Editor.h"
 #endif

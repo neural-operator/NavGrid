@@ -2,8 +2,10 @@
 
 #include "GridMovementComponent.h"
 
-#include "NavGridPrivatePCH.h"
-
+#include "NavGrid.h"
+#include "NavGridGameState.h"
+#include "NavLadderComponent.h"
+#include "TurnComponent.h"
 #include "Components/SplineComponent.h"
 #include "Components/SplineMeshComponent.h"
 #include "Animation/AnimInstance.h"

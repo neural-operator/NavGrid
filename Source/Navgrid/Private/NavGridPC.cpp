@@ -2,8 +2,6 @@
 
 #include "NavGridPC.h"
 
-#include "NavGridPrivatePCH.h"
-
 ANavGridPC::ANavGridPC(const FObjectInitializer& ObjectInitializer)
 	:Super(ObjectInitializer)
 {

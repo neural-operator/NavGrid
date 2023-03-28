@@ -2,8 +2,6 @@
 
 #include "NavGridGameState.h"
 
-#include "NavGridPrivatePCH.h"
-
 ANavGrid* ANavGridGameState::GetNavGrid()
 {
 	if (!IsValid(Grid))

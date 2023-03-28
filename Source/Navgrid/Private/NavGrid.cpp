@@ -2,7 +2,6 @@
 
 #include "NavGrid.h"
 
-#include "NavGridPrivatePCH.h"
 #include "AssetRegistryModule.h"
 
 #include <limits>

@@ -1,5 +1,4 @@
 #include "TurnManager.h"
-#include "NavGridPrivatePCH.h"
 
 ATurnManager::ATurnManager() :
 	MinNumberOfTeams(1),

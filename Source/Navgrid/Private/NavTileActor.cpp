@@ -1,5 +1,4 @@
 #include "NavTileActor.h"
-#include "NavGridPrivatePCH.h"
 
 ANavTileActor::ANavTileActor(const FObjectInitializer &ObjectInitializer)
 	:Super(ObjectInitializer)
